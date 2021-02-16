@@ -1,4 +1,4 @@
-![Entria](./img/background.jpg)
+![Provi Tech Team](./img/background.jpg)
 
 # Developer Jobs
 
@@ -44,7 +44,7 @@ up
 - say you don't have time to "x" or "y"
 - fell disconnected from the business world as a developer
 
-👉 [What our team likes to use/study and you may learn a little with us in the journey](./skills.md)
+👉 [What our team likes to use/study and you may learn a little with us in the journey](./tools/tools.md)
 
 # Jobs
 
@@ -53,7 +53,7 @@ We have 3 types of jobs available at Provi Tech Team: [**backend**](#backend), [
 
 ## Base requirements for all positions
 
-All positions described below require:
+All positions require:
 
 - [ ] Knowledge of javascript
 - [ ] Knowledge of git
@@ -83,7 +83,7 @@ MongoDb, Postgres, Python and AWS. They will deploy all these projects using the
 - [ ] Knowledge of MongoDB
 - [ ] Knowledge of Postgres/SQL
 - [ ] Understanding of tests and a testing framework (mocha, chai, jest or any other similar)
-- [ ] Good to know: Docker, AWS, notion of distributed systems, Python (not required)
+- [ ] Good to know: Docker, AWS, understanding of distributed systems, Python (not required)
 - [ ] [Challenge](./backend/challenge.md)
 
 # Frontend
@@ -120,8 +120,7 @@ whole project and business rules.
 
 **1** - Choose which position fits you best and start the challenge
 
-**2** - Once you finish the challenge to luciano@provi.com.br and dev@provi.com.br using your best email as well a phone
-we can reach you
+**2** - Once you finish the challenge, send it to us using an email we can reach you
 
 **3** - Wait 3 business days (maximum)
 
@@ -137,5 +136,5 @@ technical level**:
 
 - You know what [tools](./tools/tools.md) we love to use
 - You researched about our business model, big numbers, main partners, website and social networks
-- You tested our product
+- You tested our product. You fell comfortable to discuss the strong/weak points
 - You fell very comfortable with all of the [base requirements](#base-requirements-for-all-positions)

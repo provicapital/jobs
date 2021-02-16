@@ -14,20 +14,24 @@ you can even improve it with a feature that you would like to see.
 
 ## Extras
 - [ ] design it using figma, sketch our other design tool
-- [ ] authentication using [JWT] our other design framework
+- [ ] authentication using [JWT] and have a login system
 - [ ] create a [storybook] with your components
 - [ ] tests using [jest]
-- [ ] deploy it - good options may be [Firebase], [AWS Cloudfront] or [Netlify]
+- [ ] deploy it - good options may be [Firebase], [AWS] or [Netlify]
 
 ## Just finished? 💯
-Great work! Send it to [luciano@provi.com.br](mailto:luciano@provi.com.br) and [gian@provi.com.br](mailto:gian@provi.com.br) 
+Great work! Send it to [luciano@provi.com.br], [dev@provi.com.br] and [gian@provi.com.br]
 and you will receive and answer back from our side in 3 business days 🏃🏃
 
 
 [storybook]: https://github.com/storybooks/storybook
 [jest]: https://jestjs.io/
 [Firebase]: (https://firebase.google.com/docs/hosting)
-[AWS Cloudfront]: (https://aws.amazon.com/cloudfront/)
+[AWS]: (https://aws.amazon.com/)
 [Netlify]: (https://www.netlify.com/)
 [CRA]: (https://github.com/facebook/create-react-app)
 [JWT]: (https://jwt.io/)
+
+[luciano@provi.com.br]: (mailto:luciano@provi.com.br)
+[gian@provi.com.br]: (mailto:gian@provi.com.br)
+[dev@provi.com.br]: (mailto:dev@provi.com.br)

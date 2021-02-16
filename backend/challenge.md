@@ -16,13 +16,13 @@ then you can code endpoints for an album, genre and artists) and implement busin
 - [ ] it should be open sourced on your github repo
 
 ## Extras
-- [ ] authentication using [JWT] our other design framework
+- [ ] authentication using [JWT]
 - [ ] deploy it - good options may be [Heroku], [AWS] or [Digital Ocean]
 - [ ] use [Postgres] or [Mongo] as your database
 - [ ] use [Sequelize] or [Mongoose] as your [ORM]
 
 ## Just finished? 💯
-Great work! Send it to [luciano@provi.com.br] and [gian@provi.com.br]
+Great work! Send it to [luciano@provi.com.br], [dev@provi.com.br] and [gian@provi.com.br]
 and you will receive and answer back from our side in 3 business days 🏃🏃
 
 
@@ -38,6 +38,9 @@ and you will receive and answer back from our side in 3 business days 🏃🏃
 [Digital Ocean]: (https://www.digitalocean.com/)
 [AWS]: (https://aws.amazon.com/)
 [Heroku]: (https://www.heroku.com/)
+[Sequelize]: (https://sequelize.org/)
+[Mongoose]: (https://mongoosejs.com/)
 
 [luciano@provi.com.br]: (mailto:luciano@provi.com.br)
 [gian@provi.com.br]: (mailto:gian@provi.com.br)
+[dev@provi.com.br]: (mailto:dev@provi.com.br)

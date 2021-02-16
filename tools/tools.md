@@ -13,6 +13,9 @@
 - [ ] [Airflow]
 - [ ] [Metabase]
 
+## Code Quality
+- [ ] [SonarQube]
+
 ## APM
 - [ ] [New Relic]
 
@@ -55,3 +58,5 @@
 [UptimeRobot]: https://uptimerobot.com/
 [Coralogix]: https://coralogix.com/
 [Postman]: https://www.postman.com/
+[SonarQube]: https:sonarqube.com/
+[Apache benchmark]: https://httpd.apache.org/docs/2.4/programs/ab.html
