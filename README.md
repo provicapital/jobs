@@ -31,18 +31,18 @@ up
 
 👉 What is **normal** here:
 
-- build new products
-- build new microservices
-- automate stuff
-- solve scalability problems
-- improve our existing products every day
+- to build new products
+- to build new microservices
+- to automate stuff
+- to solve scalability problems
+- to improve our existing products every day
 
 👉 What is **not normal** here:
 
 - to not have a growth mindset
 - to not like changes
-- say you don't have time to "x" or "y"
-- fell disconnected from the business world as a developer
+- to say you don't have time to "x" or "y"
+- to feel disconnected from the business world as a developer
 
 👉 [What our team likes to use/study and you may learn a little with us in the journey](./tools/tools.md)
 
@@ -126,8 +126,7 @@ whole project and business rules.
 
 **4** - We will reach you:
 
-- In case your challenge **do achieve a high technical level**, you will receive detailed information about the next
-  steps of the application process 🏍️
+- We'll e-mail you details about the next steps in case your challenge achieves a high technical level
 - In case your challenge doesn't achieve the desired level, we will send a technical review, so you can improve your
   skills 💪
 
