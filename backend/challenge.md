@@ -28,19 +28,19 @@ and you will receive and answer back from our side in 3 business days 🏃🏃
 
 [Node]: https://nodejs.org/
 [Express]: https://expressjs.com/
-[Postgres]: (https://www.postgresql.org/)
-[Mongo]: (https://www.mongodb.com/)
-[ORM]: (https://en.wikipedia.org/wiki/Object%E2%80%93relational_mapping)
-[JWT]: (https://jwt.io/)
-[jest]: (https://jestjs.io/)
-[mocha]: (https://mochajs.org/)
-[chai]: (https://www.chaijs.com/)
-[Digital Ocean]: (https://www.digitalocean.com/)
-[AWS]: (https://aws.amazon.com/)
-[Heroku]: (https://www.heroku.com/)
-[Sequelize]: (https://sequelize.org/)
-[Mongoose]: (https://mongoosejs.com/)
+[Postgres]: https://www.postgresql.org/
+[Mongo]: https://www.mongodb.com/
+[ORM]: https://en.wikipedia.org/wiki/Object%E2%80%93relational_mapping
+[JWT]: https://jwt.io/
+[jest]: https://jestjs.io/
+[mocha]: https://mochajs.org/
+[chai]: https://www.chaijs.com/
+[Digital Ocean]: https://www.digitalocean.com/
+[AWS]: https://aws.amazon.com/
+[Heroku]: https://www.heroku.com/
+[Sequelize]: https://sequelize.org/
+[Mongoose]: https://mongoosejs.com/
 
-[luciano@provi.com.br]: (mailto:luciano@provi.com.br)
-[gian@provi.com.br]: (mailto:gian@provi.com.br)
-[dev@provi.com.br]: (mailto:dev@provi.com.br)
+[luciano@provi.com.br]: mailto:luciano@provi.com.br
+[gian@provi.com.br]: mailto:gian@provi.com.br
+[dev@provi.com.br]: mailto:dev@provi.com.br
