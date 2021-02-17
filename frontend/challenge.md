@@ -26,12 +26,12 @@ and you will receive and answer back from our side in 3 business days 🏃🏃
 
 [storybook]: https://github.com/storybooks/storybook
 [jest]: https://jestjs.io/
-[Firebase]: (https://firebase.google.com/docs/hosting)
-[AWS]: (https://aws.amazon.com/)
-[Netlify]: (https://www.netlify.com/)
-[CRA]: (https://github.com/facebook/create-react-app)
-[JWT]: (https://jwt.io/)
+[Firebase]: https://firebase.google.com/docs/hosting
+[AWS]: https://aws.amazon.com/
+[Netlify]: https://www.netlify.com/
+[CRA]: https://github.com/facebook/create-react-app
+[JWT]: https://jwt.io/
 
-[luciano@provi.com.br]: (mailto:luciano@provi.com.br)
-[gian@provi.com.br]: (mailto:gian@provi.com.br)
-[dev@provi.com.br]: (mailto:dev@provi.com.br)
+[luciano@provi.com.br]: mailto:luciano@provi.com.br
+[gian@provi.com.br]: mailto:gian@provi.com.br
+[dev@provi.com.br]: mailto:dev@provi.com.br
