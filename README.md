@@ -134,5 +134,5 @@ technical level**:
 
 - You know what [tools](./tools/tools.md) we love to use
 - You researched about our business model, big numbers, main partners, website and social networks
-- You tested our product. You fell comfortable to discuss the strong/weak points
-- You fell very comfortable with all of the [base requirements](#base-requirements-for-all-positions)
+- You tested our product. You feel comfortable to discuss the strong/weak points
+- You feel very comfortable with all of the [base requirements](#base-requirements-for-all-positions)
