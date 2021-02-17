@@ -41,7 +41,6 @@ up
 
 - to not have a growth mindset
 - to not like changes
-- to say you don't have time to "x" or "y"
 - to feel disconnected from the business world as a developer
 
 👉 [What our team likes to use/study and you may learn a little with us in the journey](./tools/tools.md)
