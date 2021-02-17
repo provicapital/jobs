@@ -60,7 +60,7 @@ All positions require:
 - [ ] Passion to learn new things and solve complex problems
 - [ ] Proactivity
 - [ ] Curiosity and interest in business rules and logic
-- [ ] Great english (fell comfortable writing, reading and googling)
+- [ ] Great english (feel comfortable writing, reading and googling)
 - [ ] Deeply desire for professional growth
 - [ ] Great communication (verbal and writing)
 - [ ] Understanding of the education and financial market
