@@ -33,9 +33,10 @@
 - [ ] [Cloudflare]
 
 ## Programming languages and frameworks
+- [ ] [JavaScript]
 - [ ] [Node] and [Express]
 - [ ] [Python] and [FastAPI]
-- [ ] [React] (component lifecycle, setState, setState callback, props as functions, hooks)
+- [ ] [React] (component lifecycle, setState, setState callback, props as functions, hooks, ContextAPI)
 - [ ] [Gatsby]
 - [ ] [Mongoose]
 - [ ] [Sequelize]
@@ -79,3 +80,4 @@
 [CloudWatch]: https://aws.amazon.com/cloudwatch/ 
 [RDS]: https://aws.amazon.com/rds/ 
 [S3]: https://aws.amazon.com/s3/
+[JavaScript]: https://developer.mozilla.org/en-US/docs/Web/JavaScript

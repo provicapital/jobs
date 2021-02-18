@@ -14,7 +14,7 @@ you can even improve it with a feature that you would like to see.
 
 ## Extras
 - [ ] design it using figma, sketch our other design tool
-- [ ] authentication using [JWT] and have a login system
+- [ ] Support authentication using [JWT] and have a login system/authenticated routes
 - [ ] create a [storybook] with your components
 - [ ] tests using [jest]
 - [ ] deploy it - good options may be [Firebase], [AWS] or [Netlify]
