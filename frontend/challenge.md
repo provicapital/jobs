@@ -5,17 +5,19 @@ Your challenge is to clone a page or pages of a product that you love.
 It can be anything (e.g: Spotify, Netflix, WhatsApp, you name it). Choose a product that you love and surprise us - 
 you can even improve it with a feature that you would like to see.
 
+You may also utilize any CSS framework for this challenge.
+
 ## Create a React app
 - [ ] it should use [CRA] or your any other boilerplate
 - [ ] it should show retrieved data from a server, public API or a mocked JSON using a http library
 - [ ] it should be responsive
 - [ ] it should focus on components and code reusability
 - [ ] it should be open sourced on your github repo
+- [ ] create a [storybook] with your components
 
 ## Extras
 - [ ] design it using figma, sketch our other design tool
 - [ ] Support authentication using [JWT] and have a login system/authenticated routes
-- [ ] create a [storybook] with your components
 - [ ] tests using [jest]
 - [ ] deploy it - good options may be [Firebase], [AWS] or [Netlify]
 
