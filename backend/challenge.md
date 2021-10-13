@@ -1,14 +1,16 @@
 # Backend Challenge
 
 ## Description
+
 Your challenge is to build a piece of an API based on a product that you love.
 It can be anything (e.g: Spotify, Netflix, WhatsApp, Airbnb, you name it). Choose a product that you love and surprise us -
-you can even improve it with a feature that you would like to see. 
+you can even improve it with a feature that you would like to see.
 
-You don't need to code the entire API of the product, just a part (e.g: let's say you choose to clone Spotify, 
+You don't need to code the entire API of the product, just a part (e.g: let's say you choose to clone Spotify,
 then you can code endpoints for an album, genre and artists) and implement business logic to its part of the API.
 
 ## Create a Node app
+
 - [ ] it should use [Node] and [Express]
 - [ ] it should be documented
 - [ ] it should be tested using a test framework like jest, mocha or chai
@@ -16,31 +18,31 @@ then you can code endpoints for an album, genre and artists) and implement busin
 - [ ] it should be open sourced on your github repo
 
 ## Extras
+
 - [ ] authentication using [JWT]
 - [ ] deploy it - good options may be [Heroku], [AWS] or [Digital Ocean]
 - [ ] use [Postgres] or [Mongo] as your database
 - [ ] use [Sequelize] or [Mongoose] as your [ORM]
 
 ## Just finished? 💯
-Great work! Send it to [luciano@provi.com.br], [dev@provi.com.br] and [gian@provi.com.br]
+
+Great work! Send it to [ramon.almeida@provi.com.br], [douglas@provi.com.br] and [murillo@provi.com.br]
 and you will receive and answer back from our side in 3 business days 🏃🏃
 
-
-[Node]: https://nodejs.org/
-[Express]: https://expressjs.com/
-[Postgres]: https://www.postgresql.org/
-[Mongo]: https://www.mongodb.com/
-[ORM]: https://en.wikipedia.org/wiki/Object%E2%80%93relational_mapping
-[JWT]: https://jwt.io/
+[node]: https://nodejs.org/
+[express]: https://expressjs.com/
+[postgres]: https://www.postgresql.org/
+[mongo]: https://www.mongodb.com/
+[orm]: https://en.wikipedia.org/wiki/Object%E2%80%93relational_mapping
+[jwt]: https://jwt.io/
 [jest]: https://jestjs.io/
 [mocha]: https://mochajs.org/
 [chai]: https://www.chaijs.com/
-[Digital Ocean]: https://www.digitalocean.com/
-[AWS]: https://aws.amazon.com/
-[Heroku]: https://www.heroku.com/
-[Sequelize]: https://sequelize.org/
-[Mongoose]: https://mongoosejs.com/
-
-[luciano@provi.com.br]: mailto:luciano@provi.com.br
-[gian@provi.com.br]: mailto:gian@provi.com.br
-[dev@provi.com.br]: mailto:dev@provi.com.br
+[digital ocean]: https://www.digitalocean.com/
+[aws]: https://aws.amazon.com/
+[heroku]: https://www.heroku.com/
+[sequelize]: https://sequelize.org/
+[mongoose]: https://mongoosejs.com/
+[ramon.almeida@provi.com.br]: mailto:ramon.almeida@provi.com.br
+[murillo@provi.com.br]: mailto:murillo@provi.com.br
+[douglas@provi.com.br]: mailto:douglas@provi.com.br
