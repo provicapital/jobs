@@ -19,9 +19,10 @@ you can even improve it with a feature that you would like to see.
 
 ## Just finished? 💯
 
-Great work! Send it to [ramon.almeida@provi.com.br], [douglas@provi.com.br] and [murillo@provi.com.br]
-and you will receive and answer back from our side in 3 business days 🏃🏃
+Great work! Send it to [douglas@provi.com.br], [murillo@provi.com.br], [ramon.almeida@provi.com.br], [ana@provi.com.br] and [dev@provi.com.br]. You will receive and answer back from our side in 3 business days 🏃🏃
 
 [ramon.almeida@provi.com.br]: mailto:ramon.almeida@provi.com.br
 [douglas@provi.com.br]: mailto:douglas@provi.com.br
 [murillo@provi.com.br]: mailto:murillo@provi.com.br
+[ana@provi.com.br]: mailto:ana@provi.com.br
+[dev@provi.com.br]: mailto:dev@provi.com.br
